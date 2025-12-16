@@ -3,7 +3,7 @@ This repository holds and links to the notebooks used in the manuscript "Does th
 
 **Other Repositories Used in Data Collection and Analysis**
 - [bluesky-post-collection](https://github.com/NatalieRMCastro/bluesky-post-collection)
-- [news-headlines]{https://github.com/NatalieRMCastro/news-headlines}
+- [news-headlines](https://github.com/NatalieRMCastro/news-headlines)
 
 ---
 Manuscript Abstract
