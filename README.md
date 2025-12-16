@@ -5,6 +5,9 @@ This repository holds and links to the notebooks used in the manuscript "Does th
 - [bluesky-post-collection](https://github.com/NatalieRMCastro/bluesky-post-collection)
 - [news-headlines](https://github.com/NatalieRMCastro/news-headlines)
 
+**Data Availability**
+To preserve the privacy of any users whose data was collected in aggregate, the data is not made available. Additionally, any reports of the data are paraphrased versions of the posts to preserve anonymity through any kind of reverse searching. Additionally, any points in the analysis notebooks for GitHub have removed any instances of traceable data to the owners of the original content.
+
 ---
 Manuscript Abstract
 **Introduction**: Focusing events are time-bound moments that can influence policy changes. They are frequently ”crisis” moments that garner media, public, and political attention. They are also fundamental to many communication theories and policy processes. They also have implications for significant socio-environmental issues, such as climate change. That is when focusing events occur; they can draw attention to social issues and give decision-makers a chance to introduce solutions. Our main question, which remains unanswered, is whether a focusing event must be about climate change to pique audience interest in climate change issues, compared with a generic focusing event not on climate change. That is, whether a focusing event has to be content-specific. We further examine a lesser-studied and newer social media platform, Bluesky, which has emerged as an alternative to other platforms.
