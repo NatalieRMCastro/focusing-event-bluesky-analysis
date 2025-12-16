@@ -1,2 +1,13 @@
 # focusing-event-bluesky-analysis
 This repository holds and links to the notebooks used in the manuscript "Does the Content of Contemporary Focusing Events Matter for Climate Change Mentions? A Social Network Exploration of Online Media Coverage Patterns"
+
+**Other Repositories Used in Data Collection and Analysis**
+- [bluesky-post-collection](https://github.com/NatalieRMCastro/bluesky-post-collection)
+- [news-headlines]{https://github.com/NatalieRMCastro/news-headlines}
+
+---
+Manuscript Abstract
+**Introduction**: Focusing events are time-bound moments that can influence policy changes. They are frequently ”crisis” moments that garner media, public, and political attention. They are also fundamental to many communication theories and policy processes. They also have implications for significant socio-environmental issues, such as climate change. That is when focusing events occur; they can draw attention to social issues and give decision-makers a chance to introduce solutions. Our main question, which remains unanswered, is whether a focusing event must be about climate change to pique audience interest in climate change issues, compared with a generic focusing event not on climate change. That is, whether a focusing event has to be content-specific. We further examine a lesser-studied and newer social media platform, Bluesky, which has emerged as an alternative to other platforms.
+**Methods**: To address this question, we examine three focusing events. For each focusing event, we collected data over 24 hours, comprising nearly 11 million Bluesky posts and 467,396 newspaper headlines. We employed a two-part methodology consisting of computer-aided thematic analysis and topic modeling.
+**Results**: Our findings imply that, regardless of the focusing event (climate change vs. a generic political one), climate change emerged as a prominent theme. Our work, though, shows that the type of focusing event matters. If someone is interested in mentions on policy change, a climate- focused event is better if the objective is to increase overall mentions; pooling generic-focused events could work.
+**Discussion**: Our results suggest that the broader online public on Bluesky and legacy media (elite newspapers widely recognized) are concerned with climate change during both specific and generic focusing events — hinting that climate change might be a more ubiquitous issue of concern than previously believed. The results may also have implications for how online publics and legacy media use their platforms (Bluesky and newspapers) to communicate about social issues like climate change, and may be relevant to diverse communication audiences. However, more research is needed here.
